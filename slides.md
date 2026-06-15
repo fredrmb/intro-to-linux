@@ -352,7 +352,7 @@ Dual boot er generelt å foretrekke men ikke alltid mulig.
   - Nettverkskort
   - Grafikkort
 - Maskinen starter ikke
-  - Korrupte instillinger for oppstart
+  - Korrupte innstillinger for oppstart
   - Sannsynligvis er det meste likevel i orden
 
 ---
